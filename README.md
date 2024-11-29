@@ -128,6 +128,9 @@ Total: ₹150.
 Contributors
 
 Siddhi Vaidya - Developer
+
 Shreya Gujarathi - Developer
+
 Shruti Thakur - Developer
+
 Sanika Shidore - Developer
